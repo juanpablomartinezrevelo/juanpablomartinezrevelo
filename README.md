@@ -56,5 +56,5 @@
   </a>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=juanpablomartinezrevelo&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
