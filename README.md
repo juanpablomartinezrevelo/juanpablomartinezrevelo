@@ -1,7 +1,9 @@
+
+
 ## 👋 &nbsp;Hola, soy Juan Pablo Martinez/desarrollador
-<br>
+
 ### 👨🏻‍💻 &nbsp;sobre mi
-<br>
+
 👨‍💻 &nbsp;Actualmente estoy enfocado en el desarrollo de proyectos propios, donde experimento con ideas creativas y soluciones innovadoras.\
 💡 &nbsp;Me apasiona descubrir nuevas tecnologías y construir herramientas que resuelvan problemas reales, además de crear pequeños hacks por pura curiosidad.\
 🎓 &nbsp;Soy estudiante de una carrera tecnológica en Análisis y Desarrollo de Software, siempre buscando aplicar lo aprendido en proyectos reales.\
@@ -9,8 +11,8 @@
 ✍️ &nbsp;En mis ratos libres, disfruto experimentar con el desarrollo de videojuegos, combinando lógica, diseño y creatividad.\
 💬 &nbsp;Estoy siempre abierto a colaborar en proyectos interesantes, aprender en equipo y aportar con lo que sé.\
 ✉️ &nbsp;Puedes escribirme a juanpablomartinezrevelo@gmail.com y con gusto responderé lo antes posible.\
-<br>
-<br>
+
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -26,20 +28,20 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 
-<br>
+
 ### 🗃 &nbsp;Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-<br>
+
 
 ### 🧰 &nbsp;Version Controll
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-<br>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -52,4 +54,7 @@
   <a href="https://github.com/juanpablomartinezrevelo/github-readme-stats">
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
